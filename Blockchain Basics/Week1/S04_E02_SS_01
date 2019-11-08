@@ -1,0 +1,13 @@
+
+https://www.ccn.com/bitcoin-transaction-really-works/
+
+Definition of Terms and Abbreviations:
+
+
+Bitcoin with a capital “B” refers to the protocol – the code, the nodes, the network and their peer-to-peer interaction.
+bitcoin with a lowercase ‘b’ refers to the currency – the cryptocurrency we send and receive, via the Bitcoin network.
+tx – wherever it is used in the text – is an abbreviation for ‘Bitcoin transaction‘
+txid is an abbreviation for ‘transaction id’ – this is a hash that is used by both humans and the protocol to reference transactions.
+Script is the name of the Bitcoin protocol’s scripting system that processes and validates transactions. Script is a clever, stack-based instruction engine, and it makes all transactions from simple payments to complex oracle overseen contracts possible.
+UTXO is an abbreviation for Unspent Transaction Output, also referred to as an “output”.
+satoshi – 1 BTC = 100,000,000 satoshi

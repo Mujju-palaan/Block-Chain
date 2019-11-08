@@ -1,0 +1,163 @@
+What is the genesis block?
+
+
+Any block created by the founder
+
+
+The last block created in the Blockchain
+
+
+The first transaction in each block
+
+
+The first block of a Blockchain
+[Correct]
+
+1 / 1 point
+
+2.Question 2
+Inspect and explore block #0 using this link to solve the below question.
+
+How many transactions are there in the Genesis block in Bitcoin?
+
+
+10
+
+
+8893
+
+
+1
+[Correct]
+
+0
+
+
+1 / 1 point
+
+3.Question 3
+Inspect and explore block #0 using this link to solve the below question.
+
+How many transactions are there in the Genesis block in Ethereum (other than the transaction for Miner fee)?
+
+
+8893
+[Correct]
+
+1
+
+
+0
+
+
+50
+
+
+
+1 / 1 point
+
+4.Question 4
+Inspect and explore block #490624 using this link to solve the below question.
+
+What is the hash of the previous block for Bitcoin block #490624? Copy and paste the answer into the box below.
+
+0000000000000000004239f2a01d8f579bc0dbb214d0f874ece5db587bee3457
+
+Make sure you are checking for the parent hash(hash of the previous block) for the given bitcoin block ID.
+
+0 / 1 point
+
+5.Question 5
+Inspect and explore block #490624 using this link to solve the below question.
+
+Which of these fields is present in a Bitcoin block summary?
+
+
+Gas Limit
+
+
+Gas Used
+
+
+Private Key of the Sender
+
+
+Difficulty
+[Correct]
+
+1 / 1 point
+
+6.Question 6
+Where are the transactions recorded in a blockchain?
+
+
+On a distributed immutable ledger
+[Correct]
+
+On a centralized immutable ledger
+
+
+On a SQL Database
+
+
+On a SQLite Database
+
+
+
+1 / 1 point
+
+7.Question 7
+What are UTXOs in a Bitcoin Blockchain?
+
+
+These are rewards for miners
+
+
+These are actual currency that is sent to the receiver of a transaction
+
+
+These form the inputs and outputs for transactions
+[Correct]
+
+
+These are transaction output that has been expended
+
+
+
+1 / 1 point
+
+8.Question 8
+Blockchain was created to support security and trust in a ___________ environment of the cryptocurrency Bitcoin.
+
+
+centralized trustless
+
+
+decentralized trustless
+[correct]
+
+decentralized trusted
+
+
+centralized trusted
+
+
+0 / 1 point
+
+9.Question 9
+What/Who are miners in a blockchain?
+
+
+An algorithm that you can use to calculate the next block in a blockchain
+
+
+Computers that validate and process blockchain transactions and solve the cryptographic puzzle to add new blocks
+[Correct]
+
+A person who receives money as the receiver of the transaction
+
+
+A person who just initiates a transaction in the blockchain
+
+
+
