@@ -1,0 +1,35 @@
+Self-Check
+TOTAL POINTS 2
+
+1.Question 1
+What allows for the execution of code in the Ethereum Blockchain, while enhancing the basic value transfer capability of the Bitcoin Blockchain?
+
+
+Byte-code
+
+
+Ethereum Virtual Machine Proof-of-Work
+
+
+Solidity
+
+
+Smart Contracts [y]
+
+Correct
+Correct! A Smart Contract is a piece of codedeployed in the Blockchain node. Execution of a smart contract is initiated by a message embedded in a transaction
+
+1 / 1 point
+
+2.Question 2
+Solidity has data, functions or methods with modifiers, along with getter and setter functions. True or False?
+
+
+True [y]
+
+
+False
+
+Correct
+Correct! It has functions, methods with modifiers, along with getter and setter functions.
+

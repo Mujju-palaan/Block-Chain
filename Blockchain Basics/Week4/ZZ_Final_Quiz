@@ -1,0 +1,57 @@
+Trust Essentials - Week 4
+LATEST SUBMISSION GRADE
+25%
+
+1.Question 1
+Which one of the following is correct?
+
+A secure blockchain is a single chain in an inconsistent state.
+
+There is only one, single criteria measured to perform validation.
+
+Neither timestamp nor nonce can be verified.
+
+Once a consensus is met, a new block is added to the chain. [correct]
+
+
+2.Question 2
+True or False? Proof of work is an agreed upon method by which the creation of a new block is achieved in the Bitcoin blockchain.
+
+
+False 
+True [correct]
+
+
+
+3.Question 3
+Trust in _________ is the ability to handle natural exceptional situations such as a chain split and double spending.
+
+
+smart contracts 
+
+
+mining
+
+
+robustness  [correct]
+
+
+Proof of Work  
+
+
+4.Question 4
+Select the statement with the INCORRECT ending to the sentence "Forks are mechanisms that _________"
+
+
+Implement planned improvements  
+
+
+Manage issues
+
+
+Build credibility. 
+
+
+Reduce the robustness of the blockchain framework. [correct]
+
+
