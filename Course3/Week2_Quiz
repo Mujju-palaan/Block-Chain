@@ -1,0 +1,152 @@
+Truffle Development - Week 2
+TOTAL POINTS 9
+
+1.Question 1
+Once you initialize a Truffle directory, the default directory structure contains which of the following?
+
+
+contracts/ - containing the Solidity source files for our smart contracts.  
+
+
+migrations/ - to handle smart contract deployment.  
+
+
+test/ - contains both JavaScript and Solidity tests.
+
+
+All of the above. [y]
+
+1 point
+
+2.Question 2
+How do you interact with accounts of a Dapp from a browser?
+
+
+Through Oraclize  
+
+
+Through Ganache 
+
+
+Through MetaMask [y]
+
+
+Through Remix
+
+1 point
+
+3.Question 3
+In what language is the test program for testing the Ballot2 Dapp written in the lesson discussed?
+
+
+Python  
+
+
+Solidity 
+
+
+Java
+
+
+Javascript  [y]
+
+1 point
+
+4.Question 4
+What is the benefit of writing the test program in Javascipt over Solidity language?
+
+
+JS can handle Smart Contract addresses  [y]
+
+
+JS is easy to code
+
+
+JS is used in web programming
+
+1 point
+
+5.Question 5
+What can you use to create an empty truffle project?
+
+
+truffle create  
+
+
+truffle compile 
+
+
+truffle init  [y]
+
+
+truffle start 
+
+1 point
+
+6.Question 6
+What command is used to convert solidity code to byte code for the EVM to execute?
+
+
+truffle execute 
+
+
+truffle convert2byte  
+
+
+truffle compile [y]
+
+
+truffle convert
+
+1 point
+
+7.Question 7
+What can you use to deploy truffle’s built-in blockchain test chain?
+
+
+truffle compile 
+
+
+truffle develop  [y]
+
+
+truffle init
+
+
+truffle switch
+
+1 point
+
+8.Question 8
+What command is used to redeploy Dapp’s contracts?
+
+
+truffle compile
+
+
+truffle alter  
+
+
+truffle migrate --reset  [yy]
+
+
+truffle develop  
+
+1 point
+
+9.Question 9
+How can you test your smart contracts on truffle?
+
+
+truffle test_contract  
+
+
+truffle test  [y]
+
+
+truffle contract 
+
+
+truffle test contract
+
+1 point

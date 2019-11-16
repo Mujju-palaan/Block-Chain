@@ -1,0 +1,133 @@
+Application Models & Standards - Week 4
+TOTAL POINTS 8
+
+1.Question 1
+What does EIP stand for?
+
+
+Ethereum International Protocol 
+
+
+Ethereum Improvement Protocol 
+
+
+Ethereum Improvement Proposal  [y]
+
+
+Ethereum Integration Proposal  
+
+1 point
+
+2.Question 2
+What is ERC 20?
+
+
+It is an EIP protocol which defines how to carry out transactions 
+
+
+None 
+
+
+It defines rules for the authentication and privacy of Ethereum transactions. 
+
+
+It defines a common set of rules and functions for all ERC20 Ethereum tokens to follow, allowing easy integration of new tokens
+[y]
+1 point
+
+3.Question 3
+Review the ERC20 Interface from this link.​ Which are the functions below do you need to implement to make your token ERC 20 compliant? Select all the functions needed.
+
+
+totalSupply() 
+
+
+balanceOf() 
+
+
+transfer() 
+
+
+approve() [y]
+
+1 point
+
+4.Question 4
+What does ERC stand for?
+
+
+Ethereum Request for Comments [y]
+
+
+Ethereum Replacement of Code 
+
+
+Ethereum Revision Comments 
+
+
+Ethereum Requisite for Code
+
+1 point
+
+5.Question 5
+Which of the following is true regarding a fungible token?
+
+
+It is not mutually interchangeable1:1 to another of its kind 
+
+
+Its intrinsic value can change 
+
+
+It is a mutually interchangeable 1:1 to another of its kind [y]
+
+1 point
+
+6.Question 6
+What is a famous example of a nonfungible token?
+
+
+Augur 
+
+
+Cryptokitties [y]
+
+
+US Dollar
+
+
+Zcash
+
+1 point
+
+7.Question 7
+What is ICO?
+
+
+Initial Coin Offering [y]
+
+
+Inferred Coin Offering
+
+
+Independent Code Ordering
+
+
+Independent Coin Offering
+
+1 point
+
+8.Question 8
+What significant event did Ethereum Decentralized Autonomous Organization (DAO) precipitate?
+
+
+Soft fork of Ethereum 
+
+
+Hard fork of Ethereum [y]
+
+
+Change of consensus algorithm
+
+1 point
+

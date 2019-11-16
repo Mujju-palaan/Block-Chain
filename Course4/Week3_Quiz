@@ -1,0 +1,182 @@
+Challenges & Solutions - Week 3
+TOTAL POINTS 12
+
+1.Question 1
+Why is consensus in a blockchain important?
+
+
+It prevents double spending of cryptocurrencies.
+
+
+It increases speed of transactions. 
+
+
+It ensures integrity of the records on the chain. [y]
+
+
+It prevents double mining of the same block.
+
+1 point
+
+2.Question 2
+Mention two alternatives to POW?
+
+
+PBFT (Practical Byzantine Fault Tolerance) []
+
+
+POT (Proof Of Trust) []
+
+
+POC (Proof Of Correctness)
+
+
+POS (Proof Of Stake)
+
+1 point
+
+3.Question 3
+Main concept behind Practical Byzantine Fault Tolerance is ____.
+
+
+Efficient forking of the blockchain []
+
+
+Election of a leader [y]
+
+
+Choosing winning miner
+
+1 point
+
+4.Question 4
+The main concept of Proof Of Stake is ____.
+
+
+Full nodes with most coins at stake get to delete a block []
+
+
+Full nodes with least coins at stake get to create the next block 
+
+
+Full nodes with the least coins get to delete a block
+
+
+Full nodes with most coins at stake get to create the next block [y]
+
+1 point
+
+5.Question 5
+What was the main concept behind SegWit2x improvement?
+
+
+Cut the block size to half to improve speed []
+
+
+Decrease the total number of transactions that take place
+
+
+Accommodate more transactions in the same size block
+
+
+Double the block size to accommodate more transactions per block [y]
+
+1 point
+
+6.Question 6
+What is lightning network?
+
+
+An on-chain payment channel for Ethereum. 
+
+
+An on-chain payment channel for Bitcoin.
+
+
+An off-chain payment channel for Bitcoin.
+
+
+An off-chain payment channel for Ethereum. [y]
+
+1 point
+
+7.Question 7
+How do state channels solve the scalability issue?
+
+
+Transactions operate at a much higher speed since they synchronize continuously with the main chain. 
+
+
+Transactions operate at a much higher speed and synchronize periodically with the main chain. [y]
+
+
+Transactions operate independently of the main chain with no synchronization.
+
+1 point
+
+8.Question 8
+What is Raiden network?
+
+
+A side chain for Ethereum based main chain. [y]
+
+
+A side chain for Bitcoin based main chain.
+
+
+A side chain for Hyperledger.
+
+
+A side chain for Litecoin based main chain.
+
+1 point
+
+9.Question 9
+What is a simple way of improving confidentiality?
+
+
+Encrypt the data transacted and digitally sign it. [y]
+
+
+Assign security codes to each node.
+
+
+Add role management to the smart contract.
+
+1 point
+
+10.Question 10
+How do smart contracts implement escrow?
+
+
+Using special access accounts to hold ethers. 
+
+
+Using combination of account balance and modifiers for enforcing conditions. [y]
+
+
+By notifying the owner to release the assets when the required balance is received.
+
+1 point
+
+11.Question 11
+Multi-sig address in Bitcoin begins with a character 3. True or False?
+
+
+True [y]
+
+
+False
+
+1 point
+
+12.Question 12
+Proof of Stake consensus algorithm has extremely high power requirements.
+
+
+True 
+
+
+False [y]
+
+1 point

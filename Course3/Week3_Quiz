@@ -1,0 +1,118 @@
+Design Improvements - Week 3
+TOTAL POINTS 7
+
+1.Question 1
+How can smart contracts access the data from different websites or APIs?
+
+
+By using Oraclize [y]
+
+
+By requesting the websites directly for the data
+
+
+It’s not possible for the smart contracts to access the data
+
+
+By using Truffle
+
+1 point
+
+2.Question 2
+How can the blockchain applications trust the data response they get from Oraclize?
+
+
+By accepting data inputs from more than one untrusted or partially trusted party and then executing the data-dependent action only after a number of them have provided the same answer.
+[]
+
+None of the above.  []
+
+
+By verifying from other third party sources. []
+
+
+Oraclize shows that the data is genuine by providing a document called authenticity proof along with the actual returned data.
+
+1 point
+
+3.Question 3
+Logs of events are stored in _______ .
+
+
+Client node []
+
+
+One node  []
+
+
+All nodes [y]
+
+
+Server node
+
+1 point
+
+4.Question 4
+What is the maximum number of parameters can be indexed for a given event specification?
+
+
+3 [y]
+
+
+No such limit
+
+
+1
+
+
+2
+
+1 point
+
+5.Question 5
+Which of the following is true for using Libraries in blockchain?
+
+
+Libraries are not stateless  []
+
+
+Libraries can receive ethers []
+
+
+Libraries can store ethers []
+
+
+Libraries are stateless
+
+1 point
+
+6.Question 6
+By default which type of variable is assigned to arrays and structs in solidity smart contracts?
+
+
+Memory variable  []
+
+
+Storage variable [y]
+
+
+No default assignment of variable type
+
+
+Memory or Storage depending on whether it is local or global
+
+1 point
+
+7.Question 7
+What happens when a contract calls selfdestruct ?
+
+
+Remaining ethers are sent to a designated address and storage and code are removed from state [y]
+
+
+Contract becomes inaccessible at a given address
+
+
+Contract can still be accessed but you can no longer send or receive ethers
+
+1 point

@@ -1,0 +1,32 @@
+Establishing trust in a Blockchain:
+Secure chain using protocols
+Validate transactions & blocks
+Verify availability of resources
+Executing & confirming transactions
+
+ 
+Proof of Work:
+First, compute the hash of the block header elements that is a fixed value, and the nonce that is a variable.
+If hash value is less than 2 par 128 for bitcoin, and less than function of difficulty for Ethereum, 
+the puzzle has been solved. If it has not been solved, repeat the process after changing the nonce value.
+If the puzzle has been solved, broadcast the winning block that will be verified by other miners.
+Non-winning miner nodes add the new block to the local copy of the chain, and move on to working on the next block.
+ 
+'''
+So this is your opportunity if you are a student who isn’t represented by a lot of people that look like you or think like you. 
+This is your shot. You can get in there and say No, I’m the expert, I’m the master on this, and that’s good.
+'''
+
+With a very low probability, the main chain may split but if it does, the bitcoin protocol has methods to 
+consolidate it to a single chain within a cycle. 
+
+
+
+Fork
+A permanent divergence in the block chain, commonly occurs when non-upgraded nodes cannot validate blocks 
+created by upgraded nodes that follow newer consensus rules。
+区块链发生永久性分歧，在新共识规则发布后，部分没有升级的节点无法验证已经升级的节点生产的区块，通常硬分叉就会发生。
+
+A temporary fork in the block chain which commonly occurs when miners using non-upgraded nodes violate a new 
+consensus rule their nodes don’t know about.
+当新共识规则发布后，没有升级的节点会因为不知道新共识规则下，而生产不合法的区块，就会产生临时性分叉。

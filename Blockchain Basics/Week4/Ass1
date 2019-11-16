@@ -1,0 +1,42 @@
+Public key is published.
+Private key is kept safe and locked.
+数据用私钥加密，能够被公钥解密 and vice versa(反之亦然.
+e.g.在B和K之间传递消息，B把消息用B的私钥和K的公钥加密，K用K的私钥和B的公钥解密。
+保证只有K能解密和接受，且只有B能发送。
+
+
+ECC：椭圆曲线加密算法（Bitcoin and Ethereum: generating the key pair）
+
+Hashing: Input data can be document\tree data\block data(any string of any size). Output data is a fixed size(often 256 bits.
+
+Use simple hash when:
+Fixed member of items to be hashed (e.g. block header)
+Verifying composite block integrity (not individual item integrity)
+
+Use tree structure hash when:
+Number of items differ from block to block
+(transaction hash\state hash\receipt hash)
+It helps the efficiency of repeated operations
+
+In Ethereum, hashing is used to generate:
+Account addresses\digital signatures\
+transaction hash\state hash\receipt hash\block header hash
+
+To manage the integrity of transaction:
+Secure & unique account address.
+Authorization of the transaction by the sender through digital signing.
+Verification of the content of the transaction is not modified.
+
+Addresses of accounts are generated using public key, private key pair:
+Step1 256-bit random number = private key (kept secure and locked using a passphrase)
+Step2 ECC algorithm applied to private key to generate public key
+Step3 Hashing applied to public key = account address(20 bytes)
+
+
+Transaction:
+They first examined, the digital signing process, and then apply it to that transaction. Data is hashed and encrypted. 
+This is the digital signature. The receiver gets the original data, and the secure hash digitally signed. 
+Receiver can recompute the hash of the original data received, 
+and compare it with the received hash to verify the integrity of the document. 
+
+In Ethereum, every state change requires state root (hash) re-computation.

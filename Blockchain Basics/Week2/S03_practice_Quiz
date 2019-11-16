@@ -1,0 +1,59 @@
+Congratulations! You passed!
+TO PASS 80% or higher
+GRADE
+100%
+Self-Check
+TOTAL POINTS 3
+
+1.Question 1
+____ hosts the software needed for transaction initiation, validation, mining, block creation, and smart contract execution.
+
+
+EVM
+
+
+Ethereum full node  [Correct!]
+
+
+Smart Contract
+
+
+External Account
+
+Correct
+Correct!
+
+1 / 1 point
+
+2.Question 2
+_____ receive, verify, gather and execute transactions.
+
+
+Ethereum Virtual Machine
+
+
+Smart Contracts
+
+
+Miner nodes  [Correct!]
+
+
+Light wallets
+
+Correct
+Correct!
+
+1 / 1 point
+
+3.Question 3
+Any changes to the value of a state variable in a smart contract are stored on the blockchain. True or False?
+
+
+True  [Correct!]
+
+
+False
+
+Correct
+Correct!
+

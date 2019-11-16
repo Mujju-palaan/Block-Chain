@@ -1,0 +1,192 @@
+Permissioned Blockchains - Week 1
+TOTAL POINTS 12
+
+1.Question 1
+What is the main goal of the Hyperledger project?
+
+
+Common functional modules and reuse of command building blocks. [y]
+
+
+Provide blockchain as a service
+
+
+Help accelerate development on IBM’s blockchain
+
+1 point
+
+2.Question 2
+What are some implementations of Hyperledger frameworks?
+
+
+Explorer 
+
+
+Fabric, Sawtooth [y]
+
+
+Composer
+
+1 point
+
+3.Question 3
+What are some of the Hyperledger tools?
+
+
+Composer, Explorer 
+
+
+Fabric, Sawtooth 
+
+
+Editor, Compiler [y]
+
+1 point
+
+4.Question 4
+A significant difference between bitcoin and Hyperledger is that ____.
+
+
+unknown peers can join but, but need to be authorized to deploy smart contracts 
+
+
+anyone can join, but miners do not receive money
+
+
+unknown peers cannot join and leave the network as they wish [y]
+
+1 point
+
+5.Question 5
+What are the main services offered by Hyperledger Fabric?
+
+
+Assets 
+
+
+Identity, Policy, Blockchain, Smart Contract [y]
+
+
+Composer
+
+
+Channels
+
+1 point
+
+6.Question 6
+Hyperledger Fabric allows for pluggable consensus algorithms. True or False?
+
+
+False 
+
+
+True  [y]
+
+1 point
+
+7.Question 7
+These are some of the components of the Fabric model.
+
+
+Peers
+
+
+Assets
+
+
+Identity
+
+
+Channels
+
+
+All of the above. [y]
+
+1 point
+
+8.Question 8
+Hyperledger functions include
+
+
+Peers, Assets and Channels []
+
+
+Identity, Consensus and Channels []
+
+
+Identity, Consensus, Membership
+
+
+Identity, Consensus and Assets
+
+1 point
+
+9.Question 9
+There are three types of peers:
+
+
+Endorsing, Ordering, Committing [y]
+
+
+Passive, Endorsing, Neutral
+
+
+Passive, Active, Neutral
+
+
+Active, Ordering, Committing
+
+1 point
+
+10.Question 10
+What is the deployable file type .bna represent in Hyperledger Fabric?
+
+
+Business Network Archive [y]
+
+
+Binary Node Archive
+
+
+Binary Network Archive
+
+
+Business Node Archive
+
+1 point
+
+11.Question 11
+Mention the services provided by Microsoft Azure in the context of blockchain.
+
+
+Rapid deployment of blockchain infrastructure and provide integration capability. [y]
+
+
+Provide basic business logic and conditions.
+
+
+Network and security services.
+
+
+Develop and test smart contracts.
+
+1 point
+
+12.Question 12
+Which of the following blockchain is NOT supported by Microsoft Azure?
+
+
+Ethereum 
+
+
+HyperLedger Fabric 
+
+
+Bitcoin  [y]
+
+
+
+R3 Corda
+
+1 point

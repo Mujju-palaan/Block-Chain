@@ -1,0 +1,138 @@
+Decentralized Applications (Dapps) - Week 1
+TOTAL POINTS 8
+
+1.Question 1
+For a web application we associate a web server, for a mobile application we associate a mobile server. For a decentralized application we associate a ____.
+
+
+Distributed application server  
+
+
+Blockchain server [Y]
+
+
+Distributed communication server
+
+
+Centralized Server
+
+1 point
+
+2.Question 2
+What is the network id for Ethereum’s main testnet server, Ropsten?
+
+
+1  []
+
+
+2 []
+
+
+3 [Y]
+
+
+4
+
+1 point
+
+3.Question 3
+What does the web3 library do to help DApps to communicate with the ethereum network?
+
+ 
+POST Requests  []
+
+
+SOAP Requests  []         
+ 
+
+REST Requests   
+
+
+RPC Calls [Y]
+
+1 point
+
+4.Question 4
+Which is one of the main use of APIs?
+
+
+Deploying smart contracts 
+
+
+Build DApp front ends 
+
+
+Providing access to data and services [Y]
+
+
+VoIP services
+
+1 point
+
+5.Question 5
+Which of these APIs you can use to see the nodes connected to the network?
+
+
+admin.nodeInfo()  
+
+
+admin.peers() [Y]
+
+
+admin.stats()
+
+
+eth.viewPeers()
+
+1 point
+
+6.Question 6
+Which API can you use to start mining on your computer once a node is setup?
+
+
+eth.startMiner()  
+
+
+admin.startMiner()  
+
+
+miner.start() [Y]
+
+
+user.startMiner() 
+
+1 point
+
+7.Question 7
+Which of these APIs can you use to create a new account on the Ethereum network?
+
+
+personal.newAccount()  [Y]
+
+
+user.createAccount()  
+
+
+user.newAccount()
+
+
+personal.createAccount()
+
+1 point
+
+8.Question 8
+You can use the Eth API to view your balance. Which of these functions would you call to do that?
+
+
+eth.viewBalance()  
+
+
+eth.balance()  
+
+
+eth.myBalance() 
+
+
+eth.getBalance() [Y]
+
+1 point

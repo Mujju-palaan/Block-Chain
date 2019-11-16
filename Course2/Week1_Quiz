@@ -1,0 +1,168 @@
+Smart Contract Basics
+TOTAL POINTS 10
+
+1.Question 1
+After compiling and deploying the Greeter contract, what value does execution of hello function (button) display?
+
+
+"" 
+
+
+“hello”  []
+
+
+“World” []
+
+
+Null []
+1 point
+
+2.Question 2
+After calling the “set” function of Greeter contract with string value “Michael”, what value does execution of hello function (button) display?
+
+
+“”
+
+
+Null
+
+
+“World”  []
+
+
+"Michael” [y]
+
+1 point
+
+3.Question 3
+What is the default value of storedData on compiling and deploying the SimpleStorage contract?
+
+
+-100
+
+
+100 []
+
+
+0X0 or 0
+
+ 
+Null  []
+
+1 point
+
+4.Question 4
+After calling or clicking the increment function with a parameter of 5, what is the value of storedData?
+
+
+Null
+
+
+-100
+
+
+5  [y]
+ 
+
+0
+
+1 point
+
+5.Question 5
+After calling or clicking the decrement function with a parameter of 6, what is the value of storedData?
+
+
+0
+
+
+Null
+
+
+5
+
+
+115792089237316195423570985008687907853269984665640564039457584007913129639935  [y] 
+
+1 point
+
+6.Question 6
+How do you deploy a contract in Remix?
+
+
+By clicking Compile.
+
+
+By clicking Load.
+
+
+By clicking Start.
+
+
+By clicking Create or Deploy.  [y]
+ 
+1 point
+
+7.Question 7
+Where can you see the bytecode of a contract in Remix?
+
+
+It is displayed when a contract is deployed in the run menu. []
+
+
+By checking the Settings for the contract.  []
+
+
+By clicking the Details button under the compile menu
+
+
+In the file explorer.
+
+1 point
+
+8.Question 8
+What are specified in a transaction to invoke an operation on a smart contract?
+
+
+Block number and number of transactions []
+
+
+Address and time []
+
+
+Account number and transaction IDs []
+
+
+Function and parameters
+
+1 point
+
+9.Question 9
+What do you need to access a smart contract from an application?
+
+
+Just the smart contract address []
+
+
+Only the ABI (Application Binary Interface) []
+
+
+The address and the ABI (Application Binary Interface) of the contract
+
+1 point
+
+10.Question 10
+What does the basic structure of a contract contain?
+
+
+Pragma directive
+
+
+Name of the contract []
+
+
+Data and functions
+
+
+All of the above [y]
+
+1 point
